@@ -74,3 +74,5 @@ const Calculator = () => {
     </div>
   );
 };
+
+render(<Calculator></Calculator>, document.getElementById("root"));
